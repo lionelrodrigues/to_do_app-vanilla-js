@@ -76,7 +76,7 @@ form button:hover{
       background-color: tomato;
 }
 .complete-btn:hover{
-    background-color: rgba(45,253,153,1);
+    background-color: rgb(182, 112, 47);
 }
 i{
     pointer-events: none;
